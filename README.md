@@ -1,5 +1,5 @@
 # docker-php-app
-penovate's php5.6-apache2 stack 
+openovate's php5.6-apache2 stack 
 
 
 create symlink of public directory from project root if you don't have them
