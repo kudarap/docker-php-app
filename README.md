@@ -1,5 +1,5 @@
 # docker-php-app
-openovate's php5.6-apache2 stack 
+based on openovate's php5.6-apache2 stack running on dynamic vhost config
 
 
 create symlink of public directory from project root if you don't have them
